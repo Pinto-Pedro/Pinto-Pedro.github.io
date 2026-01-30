@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/~pinto/static/css/main.60a0c8cc.css",
+    "main.js": "/~pinto/static/js/main.e99c3477.js",
+    "static/media/logic_group.png": "/~pinto/static/media/logic_group.334ff43b6cc6ab54cd5e.png",
+    "static/media/googlescholar.png": "/~pinto/static/media/googlescholar.e0910d469fb44ff527f5.png",
+    "static/media/profile_photo.jpg": "/~pinto/static/media/profile_photo.c5da4965f079be483cf3.jpg",
+    "static/media/bibliography.png": "/~pinto/static/media/bibliography.b83ceefc3ca60e2bc63a.png",
+    "static/media/web_page.png": "/~pinto/static/media/web_page.14ec9bf4fc120027a49e.png",
+    "static/media/arxivlogo.svg": "/~pinto/static/media/arxivlogo.f58e10c83f0dca91309c80961ac0ee32.svg",
+    "index.html": "/~pinto/index.html",
+    "static/media/getFetch.cjs": "/~pinto/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.60a0c8cc.css.map": "/~pinto/static/css/main.60a0c8cc.css.map",
+    "main.e99c3477.js.map": "/~pinto/static/js/main.e99c3477.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60a0c8cc.css",
+    "static/js/main.e99c3477.js"
+  ]
+}
